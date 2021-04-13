@@ -12,7 +12,7 @@ python pool.py to_run.sh --processes=n
 
 where n is the amount of processors you want to devote to the process. It will literally run all lines in to_run.sh, but in parallel.
 
-# Requisites
+# Requirements
 
 - Python >3.6
 - `pip install click`
